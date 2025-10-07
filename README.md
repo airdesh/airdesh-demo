@@ -16,3 +16,5 @@ Work Style- Airdrop Farming
 Details- Testnet, Mainnet, Web3 Airdrop
 <br>
 Wallet- Metamusk, Keplr, Tonkeeper, Phantom
+<br>
+Exchange- Binance
