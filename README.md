@@ -14,3 +14,5 @@ Community- Telegram Channel
 Work Style- Airdrop Farming
 <br>
 Details- Testnet, Mainnet, Web3 Airdrop
+<br>
+Wallet- Metamusk, Keplr, Tonkeeper, Phantom
