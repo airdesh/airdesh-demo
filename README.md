@@ -12,3 +12,5 @@ Supporter- Technical Lemon
 Community- Telegram Channel
 <br>
 Work Style- Airdrop Farming
+<br>
+Details- Testnet, Mainnet, Web3 Airdrop
