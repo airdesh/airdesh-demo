@@ -10,3 +10,5 @@ Owner- ZKFAR
 Supporter- Technical Lemon
 <br>
 Community- Telegram Channel
+<br>
+Work Style- Airdrop Farming
